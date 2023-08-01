@@ -1,0 +1,28 @@
+.color-background {
+    background-color: #FAF0D7;
+}
+
+.darker-color-background {
+    background-color: #FFD9C0;
+}
+
+.textcolorblue {
+    color: #8CC0DE;
+}
+
+.textcolorpink{
+    color: #FFD9C0;
+}
+
+.colorgreen {
+    background-color: #CCEEBC;
+}
+.rounded-corners {
+    border-radius: 30px;
+}
+
+.img-fluid1 {
+    max-width: 50%;
+}
+
+
